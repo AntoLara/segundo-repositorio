@@ -8,3 +8,6 @@ Este cambio se realizo desde GithubDesktop
 Este cambio de hizo desde Visual Studio Core de nuevo
 
 Este cambio de hizo desde Visual Studio Core y el plugin de github
+
+Tarea: agregar el nombre y enlase de perfil de github utilizando pull request desde VSC
+

@@ -11,3 +11,5 @@ Este cambio de hizo desde Visual Studio Core y el plugin de github
 
 Tarea: agregar el nombre y enlase de perfil de github utilizando pull request desde VSC
 
+José Antonio Lara Chávez  https://github.com/AntoLara
+
